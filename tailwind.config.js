@@ -15,6 +15,9 @@ module.exports = {
     fontFamily: {
       inter:['Inter', 'sans-serif'],
     },
+    scale: {
+      '140': '1.40',
+    }
   },
 
 
